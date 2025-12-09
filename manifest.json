@@ -1,8 +1,7 @@
 {
-	"name": "My Theme",
-	"version": "1.0.0",
-	"minAppVersion": "1.6.0",
-	"author": "My Name",
-   	"fundingUrl": "https://ko-fi.com/yourname",
-   	"authorUrl": "https://yoururl"
+  "name": "Exotic",
+  "version": "1.0.0",
+  "minAppVersion": "1.6.0",
+  "author": "jzcurious",
+  "authorUrl": "https://x.com/fish_seduction"
 }
