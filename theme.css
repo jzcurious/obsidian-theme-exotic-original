@@ -1,7 +1,7 @@
 :root {
     --blur: 80px;
 
-    --font-default: "Source Code Pro", monospace;
+    --default-font: "Source Code Pro", monospace;
     --font-monospace: "Source Code Pro", monospace;
 
     --accent-color: #aef93eee;
@@ -23,7 +23,7 @@
 }
 
 .theme-dark {
-    --font-interface: var(--font-default);
+    --font-interface: var(--default-font);
     --text-accent: var(--accent-color);
     --text-accent-hover: var(--accent-color-hover);
 
@@ -59,7 +59,7 @@
 .markdown-preview-view,
 .cm-line,
 .markdown-source-view.mod-cm6 .inline-title {
-    font-family: var(--font-default);
+    font-family: var(--default-font);
 }
 
 .markdown-preview-view h1,
@@ -204,7 +204,7 @@ input.slider {
 
 /* --- Graph Toolbar --- */
 
-body
+/*body
     > div.app-container
     > div.horizontal-main-container
     > div
@@ -218,7 +218,7 @@ body
     > div:not(.is-close):not(.clickable-icon),
 div.suggestion-container.mod-search-suggestion {
     background-color: #000000e0;
-}
+}*/
 
 /* --- TaskNotes --- */
 
