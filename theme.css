@@ -181,6 +181,9 @@ em {
     border: 1px solid transparent;
     background-color: transparent;
 }
+.popover {
+    background-color: var(--color-suggestions-bg);
+}
 
 /* --- Misc --- */
 .fc-multimonth-daygrid.fc-daygrid.fc-daygrid-body.fc-daygrid-body-balanced.false.false {
